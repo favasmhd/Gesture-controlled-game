@@ -75,5 +75,11 @@ Press `q` to quit the app.
 * Good lighting improves detection.
 * Avoid cluttered backgrounds.
 * You can tweak thresholds or line positions in the code if gestures feel too sensitive or unresponsive.
-
 ---
+## Co-creators
+
+- [Mohammed Favas](https://github.com/favasmhd)
+- [Anna Irene Ditto](https://github.com/anna-irene)
+- [Anna Keerthana V](https://github.com/annakv04)
+- [Kathrina Joseph](https://github.com/KathrinaJoseph)
+- [Aghiya Joshy](https://github.com/aghiyajoshy)
