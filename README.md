@@ -62,13 +62,22 @@ pip install opencv-python mediapipe pyautogui
 
 ## ▶️ How to Run
 
-```bash
+bash
 python3 main.py
-```
 
-Press `q` to quit the app.
 
----
+Press q to quit the app.
+
+If the default camera doesn't work, change this line in main.py:
+
+python
+cam = cv2.VideoCapture(0)
+
+
+to
+
+python
+cam = cv2.VideoCapture(1)  # or 2, depending on which camera to use.
 
 ## 📌 Notes
 
